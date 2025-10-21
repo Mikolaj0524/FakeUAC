@@ -15,7 +15,7 @@
 <img width="2567" height="1440" alt="win11prev" src="https://github.com/user-attachments/assets/1d3c40e2-3874-4488-a316-b4735f883909" />
 
 #### API
-<img width="524" height="167" alt="image" src="https://github.com/user-attachments/assets/f658ded0-d261-4ecd-911d-7b7fee7b2bba" />
+<img width="517" height="158" alt="api" src="https://github.com/user-attachments/assets/ff98bc87-ab1d-42b1-b734-f4ce69328520" />
 
 ## Usage
 1. Clone the repository
