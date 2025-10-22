@@ -9,13 +9,13 @@
 ## Previews
 
 #### Windows 10
-<img width="2567" height="1440" alt="win10prev" src="https://github.com/Mikolaj0524/FakeUAC/tree/main/Screenshots/Preview/windows10.png" />
+<img width="2567" height="1440" alt="win10prev" src="https://github.com/Mikolaj0524/FakeUAC/blob/main/Screenshots/Preview/windows10.png?raw=true" />
 
 #### Windows 11
-<img width="2567" height="1440" alt="win11prev" src="https://github.com/Mikolaj0524/FakeUAC/tree/main/Screenshots/Preview/windows11.png" />
+<img width="2567" height="1440" alt="win11prev" src="https://raw.githubusercontent.com/Mikolaj0524/FakeUAC/refs/heads/main/Screenshots/Preview/windows11.png" />
 
 #### API
-<img width="517" height="158" alt="api" src="https://github.com/Mikolaj0524/FakeUAC/tree/main/Screenshots/Preview/api.png" />
+<img width="517" height="158" alt="api" src="https://raw.githubusercontent.com/Mikolaj0524/FakeUAC/refs/heads/main/Screenshots/Preview/api.png" />
 
 ## Usage
 1. Clone the repository
